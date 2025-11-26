@@ -1,3 +1,4 @@
+crewai[google-genai]
 crewai
 streamlit
 python-dotenv
@@ -6,4 +7,5 @@ langchain-google-genai
 pypdf
 tiktoken
 langchain-openai
+
 
